@@ -1,4 +1,4 @@
-package Arrays;
+package arrays.insert;
 
 public class InsertElementsAnyPosition {
 

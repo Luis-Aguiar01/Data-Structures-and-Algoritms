@@ -1,18 +1,18 @@
-package Arrays;
+package arrays.search;
 
-public class LinearSearchInUnsortedArray {
+public class LinearSearchInSortedArray {
 
     public static void main(String[] args) {
 
-        int[] arr = { 12, 34, 10, 6, 40 };
+        int[] arr = { 5, 6, 7, 8, 9, 10 };
         int n = arr.length;
 
-        int key = 40;
+        int key = 10;
 
         int position = findElement(arr, n, key);
 
         if (position == -1) {
-            System.out.println("Element not found");
+            System.out.println("Element not found.");
         }
         else {
             System.out.println("Element found at position: " + (position + 1));
