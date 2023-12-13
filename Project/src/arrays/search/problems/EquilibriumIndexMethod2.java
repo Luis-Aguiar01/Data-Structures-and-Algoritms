@@ -1,4 +1,4 @@
-package arrays;
+package arrays.search.problems;
 
 /*
 *   O código abaixo representa uma melhor solução para encontrar o index de equilíbrio no array, em termos de desempenho.

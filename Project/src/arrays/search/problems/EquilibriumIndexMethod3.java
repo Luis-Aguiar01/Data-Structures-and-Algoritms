@@ -1,4 +1,4 @@
-package arrays;
+package arrays.search.problems;
 
 /*
 *  No seguinte código, a abordagem utilizada para descobrir o índice de equilíbrio, funciona somando todos os elementos do array

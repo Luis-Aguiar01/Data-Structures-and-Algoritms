@@ -1,4 +1,4 @@
-package arrays;
+package arrays.search.problems;
 
 /**
  * Utiliza a abordagem de divisão e conquista para encontrar um elemento majoritário no array.

@@ -1,4 +1,4 @@
-package arrays;
+package arrays.sort;
 
 /*
 *  A ordenação por seleção é um algoritmo que percorre todo o array, encontra o menor elemento

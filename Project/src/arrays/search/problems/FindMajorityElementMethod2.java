@@ -1,4 +1,4 @@
-package arrays;
+package arrays.search.problems;
 
 // Complexidade O(n²) - No pior dos casos, cada valor terá que percorrer a árvore inteira para ser adicionado
 

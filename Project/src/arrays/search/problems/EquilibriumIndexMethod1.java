@@ -1,4 +1,4 @@
-package arrays;
+package arrays.search.problems;
 
 /*
 *   Se trata de uma abordagem simples, mas extremamente custosa em termos de tempo.

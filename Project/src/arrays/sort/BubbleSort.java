@@ -1,4 +1,4 @@
-package arrays;
+package arrays.sort;
 
 /*
 *  O algoritmo de ordenação por bolhas, funciona fazendo com que, a cada iteração, o maior elemento dentro do array
