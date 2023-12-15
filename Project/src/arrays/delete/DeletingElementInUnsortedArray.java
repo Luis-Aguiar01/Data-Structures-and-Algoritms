@@ -1,4 +1,4 @@
-package arrays.deleting;
+package arrays.delete;
 
 public class DeletingElementInUnsortedArray {
 
